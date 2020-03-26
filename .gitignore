@@ -1,0 +1,11 @@
+**/target/
+**/bin/
+**/.settings/
+**/.metadata/
+**/.project
+**/.classpath
+**/.gradle
+**/.idea/
+*.iml
+**/hs_err_pid*.log
+**/jniwrap.log
