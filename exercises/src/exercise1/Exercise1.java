@@ -25,8 +25,11 @@ public class Exercise1 {
 	 * mixStart("piz snacks") → false
 	 */
 	private boolean mixStart(String text) {
-		// This is my first test git commit
-		//Second line
+		if(text.length()<3)
 		return false;
+		return text.substring(1,3).equals("ix");
+		
+		
+		
 	}
 }
