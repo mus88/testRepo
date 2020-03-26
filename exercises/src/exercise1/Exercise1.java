@@ -26,6 +26,7 @@ public class Exercise1 {
 	 */
 	private boolean mixStart(String text) {
 		// This is my first test git commit
+		//Second line
 		return false;
 	}
 }
