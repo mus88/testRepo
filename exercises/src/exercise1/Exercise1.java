@@ -25,7 +25,7 @@ public class Exercise1 {
 	 * mixStart("piz snacks") → false
 	 */
 	private boolean mixStart(String text) {
-		// Write the code to
+		// This is my first test git commit
 		return false;
 	}
 }
