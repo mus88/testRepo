@@ -25,7 +25,11 @@ public class Exercise1 {
 	 * mixStart("piz snacks") → false
 	 */
 	private boolean mixStart(String text) {
-		// Write the code to
+		if(text.length()<3)
 		return false;
+		return text.substring(1,3).equals("ix");
+		
+		
+		
 	}
 }
